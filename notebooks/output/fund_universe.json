@@ -1,0 +1,22 @@
+{
+  "VBTLX": "Vanguard Total Bond Market Index Fund Admiral Shares",
+  "VTABX": "Vanguard Total International Bond Index Fund Admiral Shares",
+  "VTIAX": "Vanguard Total International Stock Index Fund Admiral Shares",
+  "VTSAX": "Vanguard Total Stock Market Index Fund Admiral Shares",
+  "VTAPX": "Vanguard Short-Term Inflation-Protected Securities Index Fund Admiral Shares",
+  "VBIAX": "Vanguard Balanced Index Fund Admiral Shares",
+  "VFIAX": "Vanguard 500 Index Fund Admiral Shares",
+  "VIMAX": "Vanguard Mid-Cap Index Fund Admiral Shares",
+  "VSMAX": "Vanguard Small-Cap Index Fund Admiral Shares",
+  "VDE": "Vanguard Energy Index Fund ETF Shares",
+  "VAW": "Vanguard Materials Index Fund ETF Shares",
+  "VIS": "Vanguard Industrials Index Fund ETF Shares",
+  "VPU": "Vanguard Utilities Index Fund ETF Shares",
+  "VHT": "Vanguard Health Care Index Fund ETF Shares",
+  "VFH": "Vanguard Financials Index Fund ETF Shares",
+  "VDC": "Vanguard Consumer Staples Index Fund ETF Shares",
+  "VCR": "Vanguard Consumer Discretionary Index Fund ETF Shares",
+  "VGT": "Vanguard Information Technology Index Fund ETF Shares",
+  "VOX": "Vanguard Communication Services Index Fund ETF Shares",
+  "VNQ": "Vanguard Real Estate Index Fund ETF Shares"
+}

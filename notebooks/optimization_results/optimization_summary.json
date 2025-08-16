@@ -1,0 +1,47 @@
+{
+  "optimization_date": "2025-08-16T15:33:01.443929",
+  "success": true,
+  "portfolio_metrics": {
+    "sharpe_ratio": 1.5136,
+    "annual_return_percent": 11.25,
+    "annual_volatility_percent": 6.11,
+    "risk_free_rate_percent": 2.0
+  },
+  "total_investment": 300000.0000000012,
+  "fund_allocations": [
+    {
+      "ticker": "VTAPX",
+      "fund_name": "Vanguard Short-Term Inflation-Protected Securities Index Fund Admiral Shares",
+      "weight_percent": 62.54,
+      "dollar_amount": 187616.21
+    },
+    {
+      "ticker": "VOX",
+      "fund_name": "Vanguard Communication Services Index Fund ETF Shares",
+      "weight_percent": 21.35,
+      "dollar_amount": 64052.0
+    },
+    {
+      "ticker": "VFH",
+      "fund_name": "Vanguard Financials Index Fund ETF Shares",
+      "weight_percent": 8.74,
+      "dollar_amount": 26206.26
+    },
+    {
+      "ticker": "VPU",
+      "fund_name": "Vanguard Utilities Index Fund ETF Shares",
+      "weight_percent": 7.38,
+      "dollar_amount": 22125.53
+    }
+  ],
+  "diversification_metrics": {
+    "number_of_funds": 4,
+    "max_allocation_percent": 62.54,
+    "allocation_concentration": 0.44976452193409583
+  },
+  "convergence_info": {
+    "iterations": 13,
+    "function_evaluations": 278,
+    "success": true
+  }
+}

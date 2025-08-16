@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "sharpe_ratio": 1.5135607323517946,
+  "annual_return": 0.11254976958121263,
+  "annual_volatility": 0.06114704722644815,
+  "fund_allocations": {
+    "VTAPX": 0.6253873565499691,
+    "VPU": 0.0737517830109154,
+    "VFH": 0.08735419843545279,
+    "VOX": 0.21350666200366675
+  },
+  "dollar_allocations": {
+    "VTAPX": 187616.20696499074,
+    "VPU": 22125.53490327462,
+    "VFH": 26206.259530635838,
+    "VOX": 64051.99860110002
+  },
+  "optimization_message": "Optimization terminated successfully",
+  "convergence_info": {
+    "iterations": 13,
+    "function_evaluations": 278,
+    "success": true
+  }
+}
